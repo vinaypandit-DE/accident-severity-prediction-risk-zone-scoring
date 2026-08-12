@@ -1,0 +1,13 @@
+MODEL COMPARISON REPORT
+========================================
+
+   Metric  Random Forest  XGBoost  Better Model
+ Accuracy         0.8499   0.8288 Random Forest
+Precision         0.7801   0.7777 Random Forest
+   Recall         0.8499   0.8288 Random Forest
+ F1 Score         0.7921   0.7970       XGBoost
+
+Average Random Forest Score : 0.8180
+Average XGBoost Score       : 0.8081
+
+Best Overall Model : Random Forest
